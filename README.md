@@ -7,7 +7,7 @@ Allows you to create a class that has multiple error surfaces registered but sta
 | gem name                |  destination_errors   |
 | license                 |  MIT              |
 | expert support          |  [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/peterboling?utm_source=github&utm_medium=button&utm_term=peterboling&utm_campaign=github) |
-| download rank               |  [![Total Downloads](https://img.shields.io/gem/rt/destination_errors.svg)](https://rubygems.org/gems/destination_errors) |
+| download rank           |  [![Total Downloads](https://img.shields.io/gem/rt/destination_errors.svg)](https://rubygems.org/gems/destination_errors) |
 | version                 |  [![Gem Version](https://badge.fury.io/rb/destination_errors.png)](http://badge.fury.io/rb/destination_errors) |
 | dependencies            |  [![Dependency Status](https://gemnasium.com/pboling/destination_errors.png)](https://gemnasium.com/pboling/destination_errors) |
 | code quality            |  [![Code Climate](https://codeclimate.com/github/pboling/destination_errors.png)](https://codeclimate.com/github/pboling/destination_errors) |
@@ -17,7 +17,7 @@ Allows you to create a class that has multiple error surfaces registered but sta
 | homepage                |  [on Github.com][homepage] |
 | documentation           |  [on Rdoc.info][documentation] |
 | live chat               |  [![Join the chat at https://gitter.im/pboling/destination_errors](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pboling/destination_errors?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) |
-| Spread ~♡ⓛⓞⓥⓔ♡~      |  [on Coderbits][coderbits], [on Coderwall][coderwall] |
+| Spread ~♡ⓛⓞⓥⓔ♡~      |  [🌏](https://about.me/peter.boling), [👼](https://angel.co/peter-boling), [:shipit:](http://coderwall.com/pboling), [![Tweet Peter](https://img.shields.io/twitter/follow/galtzo.svg?style=social&label=Follow)](http://twitter.com/galtzo), [🌹](https://nationalprogressiveparty.org) |
 
 [semver]: http://semver.org/
 [pvc]: http://docs.rubygems.org/read/chapter/16#page74
